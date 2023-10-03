@@ -1,2 +1,2 @@
 # literate-doodle
-#updated for hacktoberfest2022
+#updated for hacktoberfest2023
